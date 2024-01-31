@@ -15,6 +15,6 @@ Skyline High School Computer Programming 1-2
 ### Space Frogs!
 OOP graphical game with sound and keyboard/mouse listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/akiaxin/programming/blob/main/images/SF1.png)
 
 [Source Code]()
