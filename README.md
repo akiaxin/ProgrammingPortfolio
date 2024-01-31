@@ -24,5 +24,7 @@ OOP graphical game with sound and keyboard/mouse listeners.
 Digitalized version of the classic Etch-a-Sketch game.
 
 ![Gameplay](https://github.com/akiaxin/programming/blob/main/images/EAS1.png)
+![Gameplay](https://github.com/akiaxin/programming/blob/main/images/EAS2.png)
+
 
 [Source Code](https://github.com/akiaxin/programming/blob/main/src/EtchASketch.zip)
