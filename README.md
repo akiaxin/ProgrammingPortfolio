@@ -1,5 +1,5 @@
 # Chloe Su: Programming Portfolio 2023-2024
-Skyline High School Computer Prgramming 1-2
+Skyline High School Computer Programming 1-2
 
 
 ## USOE Tech Certifications
