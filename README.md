@@ -21,7 +21,7 @@ OOP graphical game with sound and keyboard/mouse listeners.
 
 
 ### Etch a Sketch
-Digitalized version of the classic Etch-a-Sketch game.
+Digitalized version of the classic Etch-a-Sketch game. Allows you to draw with your keyboard and save the drawing with your mouse.
 
 ![Gameplay](https://github.com/akiaxin/programming/blob/main/images/EAS1.png)
 ![Gameplay](https://github.com/akiaxin/programming/blob/main/images/EAS2.png)
