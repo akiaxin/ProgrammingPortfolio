@@ -18,6 +18,15 @@ Pig Latin is a secret language based on English, and many have been bamboozled  
 [Source Code](https://github.com/akiaxin/programming/blob/main/src/piglatin.py)
 
 
+## Number Guessing Game
+A simple, customizable number-guessing game. Players can select a range of numbers to guess a single number from, and based on their guesses receive clues telling them whether their guess is too high or too low.
+
+![]()
+[]()
+
+
+![]()
+[]()
 
 ### Space Frogs!
 OOP graphical game with sound and keyboard/mouse listeners. A strategy game where you shoot frogs in space.
