@@ -12,8 +12,10 @@ Skyline High School Computer Programming 1-2
 ## Individual Projects (2023-2024)
 
 ### Word Maker
-Combine random prefixes, suffixes, and root words to create new and fun words!
+Combine random prefixes, suffixes, and root words to create new and fun words! Though they may not always make sense, you will occasionally stumble upon unexpected gems that are absurdly hilarious and profound.
+
 ![Gameplay]()
+
 [Source Code]()
 
 ### Pig Latin Translator
