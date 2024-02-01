@@ -13,6 +13,7 @@ Skyline High School Computer Programming 1-2
 
 
 ### Space Frogs!
+A  strategy game where you shoot frogs in space.
 OOP graphical game with sound and keyboard/mouse listeners.
 
 ![Gameplay](https://github.com/akiaxin/programming/blob/main/images/SF1.png)
@@ -21,9 +22,9 @@ OOP graphical game with sound and keyboard/mouse listeners.
 
 
 ### Etch a Sketch
-A digitalized version of the classic Etch-a-Sketch game. Allows you to draw with your keyboard and save the drawing with your mouse.
+A digitalized version of the classic Etch-a-Sketch game. 
+Allows you to draw with your keyboard and save the drawing with your mouse.
 
 <img src="https://github.com/akiaxin/programming/blob/main/images/EAS1.png" width="300"> <img src="https://github.com/akiaxin/programming/blob/main/images/EAS2.png" width="300">
-
 
 [Source Code](https://github.com/akiaxin/programming/blob/main/src/EtchASketch.zip)
