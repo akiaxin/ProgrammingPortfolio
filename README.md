@@ -11,6 +11,9 @@ Skyline High School Computer Programming 1-2
 
 ## Individual Projects (2023-2024)
 
+![Gameplay]()
+[Source Code]()
+
 ### Pig Latin Translator
 Pig Latin is a secret language based on English, and many have been bamboozled  by the language. Well, no more. No longer. With the ability to translate English text into Pig Latin, you wield the power to leave a trail of confusion behind you as you effortlessly encode English into the linguistic wonder that we know as Pig Latin.
 
@@ -25,11 +28,8 @@ A simple, customizable number-guessing game. Players can select a range of numbe
 [Source Code](https://github.com/akiaxin/programming/blob/main/src/numgame.py)
 
 
-![Gameplay]()
-[Source Code]()
-
 ### Space Frogs!
-OOP graphical game with sound and keyboard/mouse listeners. A strategy game where you shoot frogs in space.
+OOP graphical game with sound and keyboard/mouse listeners. A retro space shooting game, where players must strategize to protect the universe from waves of frogs invading the cosmos.
 
 ![Gameplay](https://github.com/akiaxin/programming/blob/main/images/spacefrogs1.png)
 [Source Code](https://github.com/akiaxin/programming/blob/main/src/SpaceFrogs.zip)
