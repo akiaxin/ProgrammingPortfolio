@@ -19,7 +19,7 @@ Combine random prefixes, suffixes, and root words to create new and fun words! T
 
 
 ### Pig Latin Translator
-Pig Latin is a secret language based on English, and many have been bamboozled by the language. Well, no more. No longer. With the ability to translate English text into Pig Latin, you wield the power to leave a trail of confusion behind you as you effortlessly encode English into the linguistic wonder that we know as Pig Latin.
+Pig Latin is a secret language based on English, and has bamboozled many. Well, no more. No longer. With the ability to translate English text into Pig Latin, you wield the power to leave a trail of confusion behind you as you effortlessly encode English into the linguistic wonder that we know as Pig Latin.
 
 ![Gameplay](https://github.com/akiaxin/programming/blob/main/images/piglatin1.png)
 [Source Code](https://github.com/akiaxin/programming/blob/main/src/piglatin.py)
