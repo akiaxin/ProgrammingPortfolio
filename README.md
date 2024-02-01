@@ -40,7 +40,7 @@ OOP graphical game with sound and keyboard/mouse listeners. A retro space shooti
 
 
 ### Etch a Sketch
-Discover your art skills with our digitalized version of the classic Etch-a-Sketch game! Use the arrow keys to doodle, sketch intricate designs, or plan world domination, and save your drawings with your mouse. 
+Discover your art skills with our digitalized version of the classic Etch-a-Sketch game! Use the arrow keys to doodle, sketch intricate designs, or plan world domination. Save your drawings with a simple click of your mouse. 
 
 <img src="https://github.com/akiaxin/programming/blob/main/images/etchasketch1.png" alt="gameplay1" width="300"> <img src="https://github.com/akiaxin/programming/blob/main/images/etchasketch2.png" alt="gameplay2" width="300">
 
