@@ -47,4 +47,4 @@ while reply.lower() == "y" or reply.lower() == "yes":
   time.sleep(1)
   reply = input("Translate more text? (y/n): ")
 else:
-  print("Thank you for using the Pig Latin Translator!")
+  print("Farewell, thank you for using the Pig Latin Translator!")
