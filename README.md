@@ -3,7 +3,7 @@ Skyline High School Computer Programming 1-2
 
 
 ## USOE Tech Certifications
-* Computer Programming 1
+* [Computer Programming 1](https://github.com/akiaxin/ProgrammingPortfolio/blob/main/images/comprog1.pdf)
 
 
 ## Group Projects (2023-2024)
