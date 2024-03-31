@@ -9,7 +9,11 @@ Skyline High School Computer Programming 1-2
 ## Group Projects (2023-2024)
 
 ### Seal Game
-A text-based adventure game where you play as a seal on a mission to find their family after being swept away by a storm. Navigate dangers and make careful choices to find your way back home!
+Our first venture into a python game; text-based adventure game where you play as a seal on a mission to find their family after being swept away by a storm. Navigate dangers and make careful choices to find your way back home!
+
+<img src="https://github.com/akiaxin/ProgrammingPortfolio/blob/main/images/sealgame1.png?raw=true" alt="gameplay1" width="300"> 
+<img src="https://github.com/akiaxin/ProgrammingPortfolio/blob/main/images/sealgame2.png?raw=true" alt="gameplay2" width="300">
+
 [Link to repository](https://github.com/akiaxin/SurrealSeal "Link to repository")
 
 
