@@ -8,11 +8,16 @@ Skyline High School Computer Programming 1-2
 
 ## Group Projects (2023-2024)
 
+### Seal Game
+A text-based adventure game where you play as a seal on a mission to find their family after being swept away by a storm. Navigate dangers and make careful choices to find your way back home!
+[Link to repository](https://github.com/akiaxin/SurrealSeal "Link to repository")
+
+
 
 ## Individual Projects (2023-2024)
 
 ### Word Maker
-Combine random prefixes, suffixes, and root words to create new and fun words! Though they may not always make sense, you will occasionally stumble upon unexpected gems that are absurdly hilarious and profound.
+Combine random prefixes, suffixes, and root words to create new and fun words! Though they may not always make sense, you will stumble upon unexpected gems that are absurdly hilarious and profound.
 
 ![Gameplay](https://github.com/akiaxin/ProgrammingPortfolio/blob/main/images/wordmaker.png?raw=true)
 
