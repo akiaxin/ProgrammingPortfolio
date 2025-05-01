@@ -9,12 +9,6 @@ Skyline High School Computer Programming 1-2
 
 
 
-## Ghostlight
-A graphical reverse horror game that flips the script on ghostly encounters. Play as a ghostly spirit protecting your haunted estate, which is constantly assaulted by curious vloggers, television crews, and intrepid ghost hunters due to rumours of the estate being haunted. As the ghostly guardian, you're tasked with guarding the estate. 
-[Link to repository](https://github.com/akiaxin/Ghostlight/blob/main/README.md)
-
-
-
 ## Group Project: Seal Game (Feb 2024)
 Our first venture into a python game; text-based adventure game where you play as a seal on a mission to find their family after being swept away by a storm. Navigate dangers and make careful choices to find your way back home!
 
